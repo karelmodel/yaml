@@ -1,2 +1,2 @@
 # yaml
-Yaml Projects
+Bamboo YAML projects
