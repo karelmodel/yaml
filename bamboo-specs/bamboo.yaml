@@ -1,0 +1,3 @@
+!include 'specs1.yml'
+---
+!include 'specs2.yml'
