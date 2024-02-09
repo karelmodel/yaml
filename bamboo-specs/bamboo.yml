@@ -1,3 +1,7 @@
 !include 'specs1.yml'
 ---
 !include 'specs2.yml'
+---
+!include 'specs3.yml'
+---
+!include 'specs4.yml'
